@@ -12,5 +12,7 @@ https://realpython.com/python-opencv-color-spaces/ for image segmentation (yet t
 
 Any suggestions for improvement or path to take in future are welcome
 
+(In catdogcnn images are not converted to grayscale just because i wanted to learn to work with coloured images)
+
 
 
