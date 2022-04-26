@@ -4,11 +4,11 @@ colab or jupyter notebooks used while learning machine learning and computer vis
 
 **Resources Used**
 
-https://youtube.com/playlist?list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN Playlist by sentdex
+https://youtube.com/playlist?list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN for simple sapplicatilns of neural networks
 
 https://stackoverflow.com/questions/49206488/accessing-pickle-file-in-google-colab for loading file saved in .pickle format in google colab
 
-https://realpython.com/python-opencv-color-spaces/ for image segmentation (yet to learn)
+https://pythonprogramming.net/loading-images-python-opencv-tutorial/  for image processing
 
 Any suggestions for improvement or path to take in future are welcome
 
